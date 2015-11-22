@@ -1,0 +1,23 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+svg {
+	position: absolute;
+	background-color: rgb(0, 25, 51);
+}
+
+line {
+	fill: none;
+  	stroke: #3F5266;
+	stroke-width: 1px;
+}
+
+.dashed {
+	stroke-dasharray: 10, 10;
+}
+
+circle {
+	fill: white;
+}

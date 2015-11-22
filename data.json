@@ -1,0 +1,710 @@
+{
+    
+    "components": [
+        {
+            "code": "ADM0065",
+            "name": "RESPONSABILIDADE SOCIOAMBIENTAL"
+        },
+        {
+            "code": "DAN0007",
+            "name": "ANTROPOLOGIA AFRO-BRASILEIRA"
+        },
+        {
+            "code": "DAN0012",
+            "name": "CULTURA E MEIO AMBIENTE"
+        },
+        {
+            "code": "DAN0024",
+            "name": "DIREITOS HUMANOS, DIVERSIDADE CULTURAL E RELAÇÕES ÉTNICO-RACIAIS"
+        },
+        {
+            "code": "DIM0036",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO"
+        },
+        {
+            "code": "DIM0090",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO I"
+        },
+        {
+            "code": "DIM0091",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO II"
+        },
+        {
+            "code": "DIM0092",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO III"
+        },
+        {
+            "code": "DIM0093",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO IV"
+        },
+        {
+            "code": "DIM0094",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO V"
+        },
+        {
+            "code": "DIM0095",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO VI"
+        },
+        {
+            "code": "DIM0096",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO VII"
+        },
+        {
+            "code": "DIM0097",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO VIII"
+        },
+        {
+            "code": "DIM0098",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO IX"
+        },
+        {
+            "code": "DIM0099",
+            "name": "TOPICOS ESPECIAIS EM COMPUTACAO X"
+        },
+        {
+            "code": "DIM0340",
+            "name": "FORMACAO HUMANISTICA EM COMPUTACAO"
+        },
+        {
+            "code": "DIM0404",
+            "name": "CALCULO NUMERICO PARA CIENCIA DA COMPUTACAO"
+        },
+        {
+            "code": "DIM0415",
+            "name": "LOGICAS NAO-CLASSICAS"
+        },
+        {
+            "code": "DIM0437",
+            "name": "LINGUAGENS DE PROGRAMACAO: CONCEITOS E PARADIGMAS"
+        },
+        {
+            "code": "DIM0443",
+            "name": "INTERACAO HUMANO-COMPUTADOR"
+        },
+        {
+            "code": "DIM0451",
+            "name": "COMPUTAÇÃO GRÁFICA I"
+        },
+        {
+            "code": "DIM0501",
+            "name": "BOAS PRÁTICAS DE PROGRAMAÇÃO"
+        },
+        {
+            "code": "DIM0502",
+            "name": "PROGRAMAÇÃO DISTRIBUÍDA"
+        },
+        {
+            "code": "DIM0505",
+            "name": "LÓGICA APLICADA A ENGENHARIA DE SOFTWARE"
+        },
+        {
+            "code": "DIM0506",
+            "name": "PROJETO DETALHADO DE SOFTWARE"
+        },
+        {
+            "code": "DIM0514",
+            "name": "ARQUITETURA DE SOFTWARE"
+        },
+        {
+            "code": "DIM0515",
+            "name": "MANUTENÇÃO DE SOFTWARE"
+        },
+        {
+            "code": "DIM0516",
+            "name": "MÉTODOS FORMAIS DE ENGENHARIA DE SOFTWARE"
+        },
+        {
+            "code": "DIM0517",
+            "name": "GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS"
+        },
+        {
+            "code": "DIM0518",
+            "name": "PLANEJAMENTO E GERENCIAMENTO DE PROJETOS"
+        },
+        {
+            "code": "DIM0524",
+            "name": "DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS"
+        },
+        {
+            "code": "DIM0531",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I"
+        },
+        {
+            "code": "DIM0532",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II"
+        },
+        {
+            "code": "DIM0533",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE III"
+        },
+        {
+            "code": "DIM0534",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE IV"
+        },
+        {
+            "code": "DIM0535",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE V"
+        },
+        {
+            "code": "DIM0536",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VI"
+        },
+        {
+            "code": "DIM0537",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VII"
+        },
+        {
+            "code": "DIM0538",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VIII"
+        },
+        {
+            "code": "DIM0539",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE IX"
+        },
+        {
+            "code": "DIM0540",
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE X"
+        },
+        {
+            "code": "DIM0541",
+            "name": "BANCO DE DADOS"
+        },
+        {
+            "code": "DIM0548",
+            "name": "ENGENHARIA DE LINGUAGENS"
+        },
+        {
+            "code": "DIM0549",
+            "name": "GRAFOS"
+        },
+        {
+            "code": "DIM0550",
+            "name": "MÉTODOS EXPERIMENTAIS EM ENGENHARIA DE SOFTWARE"
+        },
+        {
+            "code": "DIM0600",
+            "name": "PROJETO DE SOFTWARE"
+        },
+        {
+            "code": "DIM0601",
+            "name": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO III"
+        },
+        {
+            "code": "DIM0605",
+            "name": "PROJETO E ANÁLISE DE ALGORITMOS"
+        },
+        {
+            "code": "DIM0606",
+            "name": "LINGUAGENS FORMAIS E AUTÔMATOS"
+        },
+        {
+            "code": "DIM0610",
+            "name": "LÓGICA COMPUTACIONAL"
+        },
+        {
+            "code": "DIM0612",
+            "name": "PROGRAMAÇÃO CONCORRENTE"
+        },
+        {
+            "code": "EST0323",
+            "name": "ESTATISTICA APLICADA A ENGENHARIA I"
+        },
+        {
+            "code": "FPE0087",
+            "name": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS"
+        },
+        {
+            "code": "HIS0037",
+            "name": "HISTORIA INDIGENA NO BRASIL"
+        },
+        {
+            "code": "IMD0011",
+            "name": "CIRCUITOS LÓGICOS"
+        },
+        {
+            "code": "IMD0041",
+            "name": "INTRODUÇÃO A ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES"
+        },
+        {
+            "code": "IMD0042",
+            "name": "INTRODUÇÃO A SISTEMAS OPERACIONAIS"
+        },
+        {
+            "code": "IMD0043",
+            "name": "REDES DE COMPUTADORES"
+        },
+        {
+            "code": "IMD0044",
+            "name": "PRÁTICAS DE LEITURA E ESCRITA EM INGLÊS"
+        },
+        {
+            "code": "IMD0100",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO I"
+        },
+        {
+            "code": "IMD0101",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO II"
+        },
+        {
+            "code": "IMD0102",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO III"
+        },
+        {
+            "code": "IMD0103",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO IV"
+        },
+        {
+            "code": "IMD0104",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO V"
+        },
+        {
+            "code": "IMD0105",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO VI"
+        },
+        {
+            "code": "IMD0106",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO VII"
+        },
+        {
+            "code": "IMD0107",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO VIII"
+        },
+        {
+            "code": "IMD0108",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO IX"
+        },
+        {
+            "code": "IMD0109",
+            "name": "TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO X"
+        },
+        {
+            "code": "IMD0308",
+            "name": "SISTEMAS EMBARCADOS DE TEMPO REAL"
+        },
+        {
+            "code": "IMD0309",
+            "name": "INSTRUMENTAÇÃO ELETROELETRÔNICA"
+        },
+        {
+            "code": "IMD0319",
+            "name": "TEORIA DE CIRCUITOS ELÉTRICOS"
+        },
+        {
+            "code": "IMD0320",
+            "name": "CIRCUITOS ELETRÔNICOS"
+        },
+        {
+            "code": "IMD0321",
+            "name": "PROJETOS BASEADOS EM MICROCONTROLADORES"
+        },
+        {
+            "code": "IMD0322",
+            "name": "SISTEMAS DIGITAIS RECONFIGURÁVEIS"
+        },
+        {
+            "code": "IMD0323",
+            "name": "METODOLOGIAS DE PROJETOS EM SISTEMAS EMBARCADOS"
+        },
+        {
+            "code": "IMD0324",
+            "name": "PROJETO INTEGRADO I"
+        },
+        {
+            "code": "IMD0325",
+            "name": "INTRODUÇÃO A SISTEMAS DE CONTROLE"
+        },
+        {
+            "code": "IMD0326",
+            "name": "PROCESSAMENTO DIGITAL DE SINAIS"
+        },
+        {
+            "code": "IMD0327",
+            "name": "PROJETO INTEGRADO II"
+        },
+        {
+            "code": "IMD0328",
+            "name": "TÉCNICAS DE PROTOTIPAÇÃO E MONTAGEM DE CIRCUITOS E SISTEMAS ELETRÔNICOS"
+        },
+        {
+            "code": "IMD0329",
+            "name": "PROJETO INTEGRADO III"
+        },
+        {
+            "code": "IMD0330",
+            "name": "REDES DE COMUNICAÇÃO EM SISTEMAS EMBARCADOS"
+        },
+        {
+            "code": "IMD0331",
+            "name": "DESENVOLVIMENTO EM PLATAFORMAS EMBARCADAS"
+        },
+        {
+            "code": "IMD0332",
+            "name": "ARQUITETURAS AVANÇADAS DE COMPUTADORES"
+        },
+        {
+            "code": "IMD0333",
+            "name": "PROJETO DE SOFTWARE E TESTES EM SISTEMAS EMBARCADOS"
+        },
+        {
+            "code": "IMD0334",
+            "name": "SENSORES INTELIGENTES"
+        },
+        {
+            "code": "IMD0335",
+            "name": "TÓPICOS ESPECIAIS I"
+        },
+        {
+            "code": "IMD0336",
+            "name": "TÓPICOS ESPECIAIS II"
+        },
+        {
+            "code": "IMD0337",
+            "name": "TI VERDE"
+        },
+        {
+            "code": "IMD0401",
+            "name": "BANCO DE DADOS"
+        },
+        {
+            "code": "IMD0403",
+            "name": "PROGRAMAÇÃO COM BANCO DE DADOS"
+        },
+        {
+            "code": "IMD0404",
+            "name": "DESENVOLVIMENTO DE SISTEMAS WEB I"
+        },
+        {
+            "code": "IMD0405",
+            "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO"
+        },
+        {
+            "code": "IMD0406",
+            "name": "PROTOCOLO E SERVIÇOS DE INTERNET"
+        },
+        {
+            "code": "IMD0407",
+            "name": "DESIGN DE SOFTWARE II"
+        },
+        {
+            "code": "IMD0408",
+            "name": "PROCESSOS DE SOFTWARE"
+        },
+        {
+            "code": "IMD0409",
+            "name": "DESENVOLVIMENTO DE SISTEMAS WEB II"
+        },
+        {
+            "code": "IMD0410",
+            "name": "PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA"
+        },
+        {
+            "code": "IMD0411",
+            "name": "INTRODUÇÃO À GOVERNANÇA E GESTÃO DE TI"
+        },
+        {
+            "code": "IMD0412",
+            "name": "INTRODUÇÃO AO TESTE DE SOFTWARE"
+        },
+        {
+            "code": "IMD0413",
+            "name": "DESENVOLVIMENTO PARA AMBIENTE DESKTOP"
+        },
+        {
+            "code": "IMD0414",
+            "name": "SISTEMA DE INFORMAÇÃO DISTRIBUÍDO"
+        },
+        {
+            "code": "IMD0415",
+            "name": "GESTÃO DE INFRAESTRUTURA DE TI"
+        },
+        {
+            "code": "IMD0416",
+            "name": "SEGURANÇA DA INFORMAÇÃO"
+        },
+        {
+            "code": "IMD0417",
+            "name": "GESTÃO DE PROJETOS DE SOFTWARE"
+        },
+        {
+            "code": "IMD0419",
+            "name": "COMPUTAÇÃO EM NUVEM"
+        },
+        {
+            "code": "IMD0420",
+            "name": "TÓPICOS AVANÇADOS EM GOVERNANÇA DE TI"
+        },
+        {
+            "code": "IMD0421",
+            "name": "GESTÃO DA MUDANÇA ORGANIZACIONAL"
+        },
+        {
+            "code": "IMD0422",
+            "name": "SISTEMAS DE INTELIGÊNCIA EMPRESARIAL"
+        },
+        {
+            "code": "IMD0423",
+            "name": "DESIGN DE SOFTWARE I"
+        },
+        {
+            "code": "IMD0502",
+            "name": "PROCESSO DE DESENVOLVIMENTO DE SOFTWARE EDUCACIONAL"
+        },
+        {
+            "code": "IMD0503",
+            "name": "LEVANTAMENTO E MODELAGEM DE REQUISITOS"
+        },
+        {
+            "code": "IMD0504",
+            "name": "RELAÇÕES ENTRE COMUNICAÇÃO, MÍDIA E EDUCAÇÃO"
+        },
+        {
+            "code": "IMD0505",
+            "name": "DESIGN DA INTERAÇÃO HUMANO-COMPUTADOR"
+        },
+        {
+            "code": "IMD0506",
+            "name": "SISTEMAS COLABORATIVOS DE APOIO À APRENDIZAGEM"
+        },
+        {
+            "code": "IMD0509",
+            "name": "DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS"
+        },
+        {
+            "code": "IMD0510",
+            "name": "ACESSIBILIDADE DIGITAL"
+        },
+        {
+            "code": "IMD0511",
+            "name": "INTELIGÊNCIA ARTIFICIAL APLICADA À EDUCAÇÃO"
+        },
+        {
+            "code": "IMD0512",
+            "name": "AVALIAÇÃO DA INTERAÇÃO HUMANO-COMPUTADOR"
+        },
+        {
+            "code": "IMD0513",
+            "name": "EMPREENDEDORISMO"
+        },
+        {
+            "code": "IMD0515",
+            "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL I"
+        },
+        {
+            "code": "IMD0516",
+            "name": "TÓPICOS ESPECIAIS EM INFORMÁTICA  EDUCACIONAL II"
+        },
+        {
+            "code": "IMD0517",
+            "name": "FUNDAMENTOS PEDAGÓGICOS PARA A INFORMÁTICA EDUCACIONAL I"
+        },
+        {
+            "code": "IMD0518",
+            "name": "FUNDAMENTOS PEDAGÓGICOS PARA A INFORMÁTICA EDUCACIONAL II"
+        },
+        {
+            "code": "IMD0519",
+            "name": "APRENDIZAGEM BASEADA EM PROJETOS"
+        },
+        {
+            "code": "IMD0520",
+            "name": "DESIGN INSTRUCIONAL PARA TI"
+        },
+        {
+            "code": "IMD0521",
+            "name": "FUNDAMENTOS DE JOGOS DIGITAIS"
+        },
+        {
+            "code": "IMD0522",
+            "name": "JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA"
+        },
+        {
+            "code": "IMD0523",
+            "name": "TECNOLOGIAS EDUCACIONAIS"
+        },
+        {
+            "code": "IMD0524",
+            "name": "EDUCAÇÃO A DISTÂNCIA"
+        },
+        {
+            "code": "LET0508",
+            "name": "HISTÓRIA E CULTURA AFRO-BRASILEIRA E INDÍGENA"
+        },
+        {
+            "code": "MAT0309",
+            "name": "ALGEBRA LINEAR PARA COMPUTAÇÃO"
+        },
+        {
+            "code": "MAT0312",
+            "name": "MATEMATICA PARA ENGENHARIA II"
+        },
+        {
+            "code": "MAT0314",
+            "name": "MATEMATICA PARA ENGENHARIA III"
+        },
+        {
+            "code": "IMD0017",
+            "name": "PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I"
+        },
+        {
+            "code": "IMD0018",
+            "name": "PRÁTICAS DE LEITURA EM INGLÊS"
+        },
+        {
+            "code": "IMD0019",
+            "name": "RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI"
+        },
+        {
+            "code": "IMD0020",
+            "name": "TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE"
+        },
+        {
+            "code": "IMD0012",
+            "name": "INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO"
+        },
+        {
+            "code": "IMD0024",
+            "name": "CÁLCULO DIFERENCIAL E INTEGRAL I"
+        },
+        {
+            "code": "IMD0027",
+            "name": "PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II"
+        },
+        {
+            "code": "IMD0028",
+            "name": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I"
+        },
+        {
+            "code": "IMD0034",
+            "name": "VETORES E GEOMETRIA ANALÍTICA"
+        },
+        {
+            "code": "IMD0029",
+            "name": "ESTRUTURA DE DADOS BÁSICAS I"
+        },
+        {
+            "code": "IMD0030",
+            "name": "LINGUAGEM DE PROGRAMAÇÃO I"
+        },
+        {
+            "code": "IMD0033",
+            "name": "PROBABILIDADE"
+        },
+        {
+            "code": "IMD0038",
+            "name": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II"
+        },
+        {
+            "code": "IMD0039",
+            "name": "ESTRUTURAS DE DADOS BÁSICAS II"
+        },
+        {
+            "code": "IMD0040",
+            "name": "LINGUAGEM DE PROGRAMAÇÃO II"
+        }
+    ],
+    "edges_dep": [ 
+        [ "DIM0404", "MAT0312" ],
+        [ "DIM0404", "MAT0312" ],
+        [ "DIM0404", "MAT0309" ],
+        [ "DIM0415", "DIM0505" ],
+        [ "DIM0437", "DIM0601" ],
+        [ "DIM0437", "IMD0040" ],
+        [ "DIM0443", "DIM0600" ],
+        [ "DIM0451", "DIM0404" ],
+        [ "DIM0502", "IMD0042" ],
+        [ "DIM0502", "IMD0043" ],
+        [ "DIM0505", "IMD0038" ],
+        [ "DIM0506", "IMD0040" ],
+        [ "DIM0514", "DIM0506" ],
+        [ "DIM0515", "DIM0506" ],
+        [ "DIM0516", "DIM0505" ],
+        [ "DIM0524", "IMD0040" ],
+        [ "DIM0541", "IMD0030" ],
+        [ "DIM0548", "IMD0039" ],
+        [ "DIM0548", "IMD0040" ],
+        [ "DIM0549", "IMD0039" ],
+        [ "DIM0550", "IMD0033" ],
+        [ "DIM0600", "IMD0040" ],
+        [ "DIM0601", "IMD0038" ],
+        [ "DIM0605", "DIM0549" ],
+        [ "DIM0606", "DIM0601" ],
+        [ "DIM0610", "DIM0601" ],
+        [ "DIM0612", "IMD0042" ],
+        [ "DIM0612", "IMD0040" ],
+        [ "IMD0041", "IMD0012" ],
+        [ "IMD0042", "IMD0041" ],
+        [ "IMD0043", "IMD0041" ],
+        [ "IMD0044", "IMD0018" ],
+        [ "IMD0308", "IMD0042" ],
+        [ "IMD0308", "IMD0323" ],
+        [ "IMD0309", "IMD0320" ],
+        [ "IMD0319", "IMD0024" ],
+        [ "IMD0320", "IMD0319" ],
+        [ "IMD0321", "IMD0012" ],
+        [ "IMD0322", "IMD0011" ],
+        [ "IMD0325", "IMD0034" ],
+        [ "IMD0325", "IMD0319" ],
+        [ "IMD0326", "IMD0034" ],
+        [ "IMD0326", "IMD0319" ],
+        [ "IMD0327", "IMD0324" ],
+        [ "IMD0329", "IMD0327" ],
+        [ "IMD0330", "IMD0043" ],
+        [ "IMD0330", "IMD0011" ],
+        [ "IMD0332", "IMD0041" ],
+        [ "IMD0333", "IMD0323" ],
+        [ "IMD0334", "IMD0330" ],
+        [ "IMD0401", "IMD0038" ],
+        [ "IMD0401", "IMD0040" ],
+        [ "IMD0403", "IMD0401" ],
+        [ "IMD0404", "IMD0030" ],
+        [ "IMD0406", "IMD0043" ],
+        [ "IMD0410", "IMD0040" ],
+        [ "IMD0410", "IMD0043" ],
+        [ "IMD0410", "IMD0042" ],
+        [ "IMD0411", "IMD0405" ],
+        [ "IMD0412", "IMD0040" ],
+        [ "IMD0412", "IMD0423" ],
+        [ "IMD0412", "IMD0503" ],
+        [ "IMD0413", "IMD0040" ],
+        [ "IMD0414", "IMD0410" ],
+        [ "IMD0416", "IMD0405" ],
+        [ "IMD0417", "IMD0408" ],
+        [ "IMD0420", "IMD0411" ],
+        [ "IMD0421", "IMD0405" ],
+        [ "IMD0422", "IMD0405" ],
+        [ "IMD0509", "IMD0040" ],
+        [ "IMD0518", "IMD0517" ],
+        [ "IMD0519", "IMD0518" ],
+        [ "IMD0520", "IMD0518" ],
+        [ "IMD0523", "IMD0517" ],
+        [ "IMD0524", "IMD0518" ],
+        [ "MAT0309", "IMD0034" ],
+        [ "MAT0312", "IMD0024" ],
+        [ "MAT0314", "MAT0312" ],
+        [ "IMD0012", "IMD0019" ],
+        [ "IMD0024", "IMD0019" ],
+        [ "IMD0027", "IMD0017" ],
+        [ "IMD0028", "IMD0019" ],
+        [ "IMD0034", "IMD0019" ],
+        [ "IMD0029", "IMD0012" ],
+        [ "IMD0030", "IMD0012" ],
+        [ "IMD0033", "IMD0024" ],
+        [ "IMD0038", "IMD0028" ],
+        [ "IMD0039", "IMD0029" ],
+        [ "IMD0040", "IMD0030" ]
+    ],
+    "edges_codep": [
+        [ "DIM0501", "IMD0040" ],
+        [ "IMD0011", "IMD0012" ],
+        [ "IMD0321", "IMD0041" ],
+        [ "IMD0329", "IMD0308" ],
+        [ "IMD0329", "IMD0328" ],
+        [ "IMD0408", "IMD0407" ],
+        [ "IMD0409", "IMD0404" ],
+        [ "IMD0029", "IMD0030" ],
+        [ "IMD0030", "IMD0029" ],
+        [ "IMD0033", "IMD0038" ],
+        [ "IMD0039", "IMD0040" ],
+        [ "IMD0040", "IMD0039" ]
+    ]
+}
