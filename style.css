@@ -6,6 +6,7 @@ body {
 svg {
 	position: absolute;
 	background-color: rgb(0, 25, 51);
+	background: url(http://www.mrwallpaper.com/wallpapers/space-red-nebulae.jpg);
 }
 
 line {
@@ -20,4 +21,29 @@ line {
 
 circle {
 	fill: white;
+}
+
+div.tooltip {
+	padding: 10px;
+	position: absolute;           
+	text-align: center;           
+	min-width: 60px;                  
+	min-height: 28px;           
+	font: 12px sans-serif;        
+	background: lightsteelblue;   
+	border: 0px;      
+	border-radius: 8px;           
+	pointer-events: none;         
+}
+
+acronym {
+	font-weight: bold;
+}
+
+.in {
+	stroke: lightblue;
+}
+
+.out {
+	stroke: pink;
 }
